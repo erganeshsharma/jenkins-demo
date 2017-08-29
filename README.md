@@ -1,1 +1,1 @@
-# Simple PHP program to print helloworld message.
+# Simple PHP web app to print Testing Jenkins message.
